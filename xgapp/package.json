@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "@vant/weapp": "^1.10.14",
+    "echarts": "^5.4.1",
+    "mpvue-echarts": "^0.3.2",
+    "vant": "^2.12.54"
+  },
+  "name": "xg-app",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {},
+  "description": ""
+}

@@ -1,0 +1,23 @@
+{
+  "id": "3967183",
+  "name": "徐工APP",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "4766685",
+      "name": "home",
+      "font_class": "home",
+      "unicode": "e7c6",
+      "unicode_decimal": 59334
+    },
+    {
+      "icon_id": "6302550",
+      "name": "我的",
+      "font_class": "wode",
+      "unicode": "e681",
+      "unicode_decimal": 59009
+    }
+  ]
+}

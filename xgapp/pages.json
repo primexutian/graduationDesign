@@ -1,0 +1,60 @@
+{
+  "pages": [
+    // {
+    //   "path": "pages/index/index",
+    //   "style": {
+    //     "navigationBarTitleText": "首页"
+    //   }
+    // },
+    {
+      "path": "pages/base/login/login",
+      "style": {
+        "navigationBarTitleText": "登录"
+      }
+    },
+    {
+      "path": "pages/base/index/index",
+      "style": {
+        "navigationBarTitleText": "首页"
+      }
+    },
+    {
+      "path": "pages/operate/warningAnalysis/warningAnalysis",
+      "style": {
+        "navigationBarTitleText": "预警分析"
+      }
+    },
+    {
+      "path": "pages/operate/faultWarning/faultWarning",
+      "style": {
+        "navigationBarTitleText": "故障提醒"
+      }
+    },
+    {
+      "path": "pages/operate/exceptionHandling/exceptionHandling",
+      "style": {
+        "navigationBarTitleText": "异常处理"
+      }
+    },
+    {
+      "path": "pages/operate/remoteControl/remoteControl",
+      "style": {
+        "navigationBarTitleText": "远程控制"
+      }
+    }
+  ],
+  "globalStyle": {
+    "navigationStyle": "custom",
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8",
+    "app-plus": {
+      "background": "#efeff4"
+    }
+  },
+  "autoscan": true,
+  "custom": {
+    "^van-(.*)": "@/wxcomponents/vant-$1/index.vue"
+  }
+}

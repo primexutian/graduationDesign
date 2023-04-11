@@ -1,0 +1,1 @@
+export default {  // api请求前缀  // 测试环境  baseUrl: 'http://127.0.0.1:8084/api/',  debugger: true,}
